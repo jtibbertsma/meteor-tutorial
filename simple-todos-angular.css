@@ -79,6 +79,10 @@ ul {
   cursor: pointer;
 }
 
+.delete:focus {
+  outline: 0;
+}
+
 li {
   position: relative;
   list-style: none;
